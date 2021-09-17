@@ -83,3 +83,12 @@
 - 安装 yarn: `npm install -g yarn`
 
 - 安装 nvm: `https://github.com/nvm-sh/nvm#install--update-script`
+
+## Github
+
+- 设置 username 和 email
+
+```shell
+git config --global user.name "Leecason"
+git config --global user.email "leecason0722@gmail.com"
+```
